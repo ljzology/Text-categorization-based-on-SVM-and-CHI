@@ -3,9 +3,8 @@ I and my teammate take part the competition holded by CCF, and we get a satisfac
 http://www.wid.org.cn/data/science/player/competition/detail/description/239
 
 # Data 
-you can download the data from baidu cloud disk.
-url : http://pan.baidu.com/s/1gfdYN31
-the password is : 9w09
+if you want the data, you can send email to ljzology@163.com
+
 
 you can see the illustrate in this URL:
 http://www.wid.org.cn/data/science/player/competition/detail/data/239
